@@ -13,12 +13,7 @@ The Unitree H1 is a versatile quadruped robot designed for various applications,
 - **Video Demonstration**: See the walking capabilities in action!
 
 ## Video Demonstration
-
-<video width="600" controls>
-  <source src="https://github.com/ZhangXG001/unitree_h1_humanoid-gym/tree/main/video/walking1.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
+![Unitree H1 Robot Walking](https://github.com/ZhangXG001/unitree_h1_humanoid-gym/tree/main/video/walking.gif)
 *walking demonstration of the Unitree H1 robot.*
 
 ## Installation
