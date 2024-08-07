@@ -1,9 +1,5 @@
-# unitree_h1_humanoid-gym
-an implement of unitree_h1 robot with humanoid-gym
-
-# Unitree H1 Robot Walking Application
-
-This repository contains an application for controlling the Unitree H1 robot using the Humanoid-Gym environment. The goal of this project is to implement walking capabilities for the Unitree H1 robot, utilizing reinforcement learning techniques to enhance its mobility and stability.
+# Unitree_h1_humanoid-gym（Unitree H1 Robot Walking Application）
+an implement of unitree_h1 robot with humanoid-gym, This repository contains an application for controlling the Unitree H1 robot using the Humanoid-Gym environment. The goal of this project is to implement walking capabilities for the Unitree H1 robot, utilizing reinforcement learning techniques to enhance its mobility and stability.
 
 ## Overview
 
@@ -11,8 +7,8 @@ The Unitree H1 is a versatile quadruped robot designed for various applications,
 
 ## Features
 
-- **Reinforcement Learning**: Utilizes state-of-the-art reinforcement learning algorithms for training the robot.
-- **Simulation Environment**: Integrated with Humanoid-Gym for realistic simulation and testing.
+- **Reinforcement Learning**: Utilizes reinforcement learning algorithms for training the robot.
+- **Simulation Environment**: Integrated with Humanoid-Gym for realistic simulation and testing. More informention for Humanoid-Gym https://github.com/roboterax/humanoid-gym.
 - **Real-time Control**: Implements real-time control strategies for smooth and stable walking.
 - **Video Demonstration**: See the walking capabilities in action!
 
